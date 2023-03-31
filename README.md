@@ -22,13 +22,13 @@ This project has four major parts :
 ## Running the project
 Ensure that you are in the project home directory. Create the machine learning model by running below command
   
-    `python model.py`
+    python model.py
   
 This would create a serialized version of our model into a file model.pkl
 
 Run app.py using below command to start Flask API 
 
-    `python app.py`
+     python app.py
   
 By default, flask will run on http://127.0.0.1:5000/ (localhost)
 
