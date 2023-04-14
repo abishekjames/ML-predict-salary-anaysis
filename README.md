@@ -36,4 +36,4 @@ Navigate to URL http://127.0.0.1:5000/ (localhost)
 
 ## Deployment in Heroku
 
-I have Deployed the api in Heroku, [Click here](https://ml-salary-prediction.herokuapp.com/)
+I have Deployed the api in Heroku
