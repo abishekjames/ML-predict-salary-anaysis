@@ -37,4 +37,5 @@ Navigate to URL http://127.0.0.1:5000/ (localhost)
 ## Deployment in Heroku
 
 I have Deployed the api in Heroku
+
 ![](https://github.com/abishekjames/ML-predict-salary-anaysis/blob/main/Screenshot.png)
